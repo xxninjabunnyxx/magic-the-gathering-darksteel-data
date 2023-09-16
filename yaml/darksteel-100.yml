@@ -1,0 +1,113 @@
+---
+object: card
+id: 72c1a731-7854-42b1-8719-ac3c2a269c1f
+oracle_id: 62e7e7b1-9887-4d15-b0e5-a8ddc711bd88
+multiverse_ids:
+- 50943
+mtgo_id: 20597
+mtgo_foil_id: 20598
+tcgplayer_id: 11617
+cardmarket_id: 316
+name: Arcbound Ravager
+lang: en
+released_at: '2004-02-06'
+uri: https://api.scryfall.com/cards/72c1a731-7854-42b1-8719-ac3c2a269c1f
+scryfall_uri: https://scryfall.com/card/dst/100/arcbound-ravager?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545
+  normal: https://cards.scryfall.io/normal/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545
+  large: https://cards.scryfall.io/large/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545
+  png: https://cards.scryfall.io/png/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.png?1562637545
+  art_crop: https://cards.scryfall.io/art_crop/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545
+  border_crop: https://cards.scryfall.io/border_crop/front/7/2/72c1a731-7854-42b1-8719-ac3c2a269c1f.jpg?1562637545
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact Creature — Beast
+oracle_text: |-
+  Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+  Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)
+power: '0'
+toughness: '0'
+colors: []
+color_identity: []
+keywords:
+- Modular
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: e29cb2dd-1345-4032-abfe-e52e8c8ce074
+set: dst
+set_name: Darksteel
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/e29cb2dd-1345-4032-abfe-e52e8c8ce074
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adst&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dst?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/72c1a731-7854-42b1-8719-ac3c2a269c1f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A62e7e7b1-9887-4d15-b0e5-a8ddc711bd88&unique=prints
+collector_number: '100'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Carl Critchlow
+artist_ids:
+- 17948f16-611a-44b8-8d10-9895a0bdfff1
+illustration_id: 168fa025-e223-4f1b-981d-abe8b1926888
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3695
+penny_rank: 269
+prices:
+  usd: '13.27'
+  usd_foil: '58.80'
+  usd_etched: 
+  eur: '7.05'
+  eur_foil: '19.71'
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50943
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Arcbound+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Arcbound+Ravager&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Arcbound+Ravager
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/11617?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Arcbound+Ravager&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/20597?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
